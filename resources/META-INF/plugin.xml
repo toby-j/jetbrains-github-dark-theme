@@ -12,7 +12,7 @@
     <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
     <vendor email="tobe.johnson@protonmail.com" url="https://tobyjohnson.uk/">Toby Johnson</vendor>
 
-    <idea-version since-build="212" until-build="222.*"/>
+    <idea-version since-build="212"/>
 
     <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
