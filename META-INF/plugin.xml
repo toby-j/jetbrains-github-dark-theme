@@ -30,6 +30,6 @@
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <themeProvider id="GitHub_Dark" path="theme/GitHub_Dark.theme.json"/>
+        <themeProvider id="GitHub_Dark" path="resources/theme/GitHub_Dark.theme.json"/>
     </extensions>
 </idea-plugin>
