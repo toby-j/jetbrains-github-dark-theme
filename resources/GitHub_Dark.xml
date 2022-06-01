@@ -4,7 +4,7 @@
     <property name="ide">idea</property>
     <property name="ideVersion">IU-221.5591.52</property>
     <property name="modified">2022-05-31T18:25:35</property>
-    <property name="originalScheme">Darcula</property>
+    <property name="originalScheme">GitHub Dark</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="85e89d" />
@@ -927,12 +927,12 @@
     <option name="HAML_XHTML" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="ffa657" />
+        <option name="FOREGROUND" value="79c0ff" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
       <value>
-        <option name="FOREGROUND" value="85e89d" />
+        <option name="FOREGROUND" value="c9d1d9" />
       </value>
     </option>
     <option name="HTML_CODE">
@@ -946,7 +946,7 @@
     <option name="HTML_TAG" baseAttributes="DEFAULT_TAG" />
     <option name="HTML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="ff7b72" />
+        <option name="FOREGROUND" value="7ee787" />
       </value>
     </option>
     <option name="HYPERLINK_ATTRIBUTES">
@@ -1153,7 +1153,7 @@
     </option>
     <option name="JSON.PROPERTY_KEY">
       <value>
-        <option name="FOREGROUND" value="ff7b72" />
+        <option name="FOREGROUND" value="7ee787" />
       </value>
     </option>
     <option name="JSP_DIRECTIVE_NAME">
@@ -1177,12 +1177,37 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="KOTLIN_ANNOTATION">
+      <value>
+        <option name="FOREGROUND" value="c9d1d9" />
+      </value>
+    </option>
+    <option name="KOTLIN_ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="c9d1d9" />
+      </value>
+    </option>
+    <option name="KOTLIN_ARROW">
+      <value>
+        <option name="FOREGROUND" value="ff7b72" />
+      </value>
+    </option>
     <option name="KOTLIN_BACKING_FIELD_VARIABLE">
       <value />
     </option>
+    <option name="KOTLIN_CLASS">
+      <value>
+        <option name="FOREGROUND" value="79c0ff" />
+      </value>
+    </option>
     <option name="KOTLIN_CLOSURE_DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="ffa657" />
+        <option name="FOREGROUND" value="c9d1d9" />
+      </value>
+    </option>
+    <option name="KOTLIN_COLON">
+      <value>
+        <option name="FOREGROUND" value="ff7b72" />
       </value>
     </option>
     <option name="KOTLIN_DYNAMIC_FUNCTION_CALL">
@@ -1197,7 +1222,22 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="KOTLIN_ENUM">
+      <value>
+        <option name="FOREGROUND" value="d2a8ff" />
+      </value>
+    </option>
     <option name="KOTLIN_ENUM_ENTRY">
+      <value>
+        <option name="FOREGROUND" value="d2a8ff" />
+      </value>
+    </option>
+    <option name="KOTLIN_EXCLEXCL">
+      <value>
+        <option name="FOREGROUND" value="ff7b72" />
+      </value>
+    </option>
+    <option name="KOTLIN_EXTENSION_FUNCTION_CALL">
       <value>
         <option name="FOREGROUND" value="ffa657" />
       </value>
@@ -1215,6 +1255,22 @@
         <option name="FOREGROUND" value="ffa657" />
       </value>
     </option>
+    <option name="KOTLIN_OPERATION_SIGN">
+      <value>
+        <option name="FOREGROUND" value="ff7b72" />
+      </value>
+    </option>
+    <option name="KOTLIN_PACKAGE_FUNCTION_CALL" baseAttributes="DEFAULT_STATIC_METHOD" />
+    <option name="KOTLIN_PACKAGE_PROPERTY">
+      <value>
+        <option name="FOREGROUND" value="c9d1d9" />
+      </value>
+    </option>
+    <option name="KOTLIN_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="c9d1d9" />
+      </value>
+    </option>
     <option name="KOTLIN_SMART_CAST_RECEIVER">
       <value />
     </option>
@@ -1224,15 +1280,25 @@
     <option name="KOTLIN_SMART_CONSTANT">
       <value />
     </option>
+    <option name="KOTLIN_SUSPEND_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="c9d1d9" />
+      </value>
+    </option>
+    <option name="KOTLIN_TRAIT">
+      <value>
+        <option name="FOREGROUND" value="d2a8ff" />
+      </value>
+    </option>
     <option name="KOTLIN_TYPE_ALIAS">
       <value>
-        <option name="FOREGROUND" value="ffab70" />
+        <option name="FOREGROUND" value="ffa657" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="KOTLIN_TYPE_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="ffab70" />
+        <option name="FOREGROUND" value="d2a8ff" />
       </value>
     </option>
     <option name="KOTLIN_VARIABLE_AS_FUNCTION">
@@ -2128,6 +2194,11 @@
         <option name="BACKGROUND" value="d1117" />
       </value>
     </option>
+    <option name="TS.INTERFACE">
+      <value>
+        <option name="FOREGROUND" value="d2a8ff" />
+      </value>
+    </option>
     <option name="TS.MODULE_NAME">
       <value>
         <option name="FOREGROUND" value="ffab70" />
@@ -2140,7 +2211,7 @@
     </option>
     <option name="TS.TYPE_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="c9d1d9" />
+        <option name="FOREGROUND" value="ffa657" />
       </value>
     </option>
     <option name="TYPEDEF">
