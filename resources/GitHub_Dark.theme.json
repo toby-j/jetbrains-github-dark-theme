@@ -1,8 +1,8 @@
 {
-  "name": "GitHub_Dark",
+  "name": "GitHub_Dark_Theme",
   "dark": true,
   "author": "Toby Johnson",
-  "editorScheme": "/GitHub_Dark.xml",
+  "editorScheme": "/GitHub_Dark_Theme.xml",
   "ui": {
     "*": {
       "background": "#161b22",
