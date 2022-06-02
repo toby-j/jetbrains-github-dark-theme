@@ -2,7 +2,7 @@
 <idea-plugin>
     <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
     <id>Intellij_GitHub_Dark_Theme</id>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
@@ -22,15 +22,15 @@
   <br/><br/>
   <a href="https://github.com/toby-j/Intellij_GitHub_Dark_Theme/issues">Report an issue</a>  |  <a href="https://github.com/toby-j/Intellij_GitHub_Dark_Theme">On GitHub</a>
   <br/><br/><br/>
-  <img src="https://github.com/toby-j/Intellij_GitHub_Dark_Theme/master/screenshots/7-small.png" border="0" width="700" alt="7-small">
+  <img src="https://raw.githubusercontent.com/toby-j/Intellij_GitHub_Dark_Theme/master/screenshots/7-small.png" border="0" width="700" alt="7-small">
   <br/>
-  <img src="https://github.com/toby-j/Intellij_GitHub_Dark_Theme/master/screenshots/8-small.png" border="0" width="700" alt="8-small">
+  <img src="https://raw.githubusercontent.com/toby-j/Intellij_GitHub_Dark_Theme/master/screenshots/8-small.png" border="0" width="700" alt="8-small">
     ]]></description>
 
     <!-- Short summary of new features and bugfixes in the latest plugin version.
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
     <change-notes><![CDATA[
-    Initial release of the theme.
+    Improved description
   ]]></change-notes>
 
     <!-- Product and plugin compatibility requirements.
