@@ -1,11 +1,15 @@
-<scheme name="GitHub_Dark_Theme" version="1" parent_scheme="Darcula">
+<scheme name="GitHub Dark" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2022-05-31T18:25:35</property>
+    <property name="created">2023-06-04T12:54:06</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">IU-221.5591.52</property>
-    <property name="modified">2022-05-31T18:25:35</property>
+    <property name="ideVersion">2023.1.2.0.0</property>
+    <property name="modified">2023-06-04T12:54:13</property>
     <property name="originalScheme">GitHub Dark</property>
   </metaInfo>
+  <option name="CONSOLE_FONT_NAME" value="Consolas" />
+  <option name="CONSOLE_LIGATURES" value="true" />
+  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="85e89d" />
     <option name="ANNOTATIONS_COLOR" value="a0a7b4" />
@@ -17,15 +21,15 @@
     <option name="DIAGRAM_DEFAULT_EDGE" value="a0a7b4" />
     <option name="DIAGRAM_GENERALIZATION_EDGE" value="79b8ff" />
     <option name="DIAGRAM_INNER_EDGE" value="ff7b72" />
-    <option name="DIAGRAM_NODE_BACKGROUND" value="323844" />
+    <option name="DIAGRAM_NODE_BACKGROUND" value="161b22" />
     <option name="DIAGRAM_NODE_HEADER" value="414855" />
     <option name="DIAGRAM_NOTE_BACKGROUND" value="414855" />
     <option name="DIAGRAM_NOTE_BORDER" value="68737e" />
     <option name="DIAGRAM_REALIZATION_EDGE" value="85e89d" />
-    <option name="DIFF_SEPARATORS_BACKGROUND" value="21252b" />
+    <option name="DIFF_SEPARATORS_BACKGROUND" value="d1117" />
     <option name="DOCUMENTATION_COLOR" value="3d424b" />
     <option name="ERROR_HINT" value="781732" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="4f575f" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="768390" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
     <option name="GUTTER_BACKGROUND" value="d1117" />
     <option name="HTML_TAG_TREE_LEVEL0" value="f44747" />
@@ -47,7 +51,7 @@
     <option name="SELECTED_TEARLINE_COLOR" value="6b6e73" />
     <option name="SELECTION_BACKGROUND" value="22374b" />
     <option name="SEPARATOR_BELOW_COLOR" value="" />
-    <option name="TEARLINE_COLOR" value="4f575f" />
+    <option name="TEARLINE_COLOR" value="768390" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="335027" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="3e443c" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="46333c" />
@@ -226,67 +230,67 @@
     </option>
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="79b8ff" />
+        <option name="FOREGROUND" value="2f81f7" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CONSOLE_BLUE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="79b8ff" />
+        <option name="FOREGROUND" value="2f81f7" />
       </value>
     </option>
     <option name="CONSOLE_CYAN_BRIGHT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="9ecbff" />
+        <option name="FOREGROUND" value="a5d6ff" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CONSOLE_CYAN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="9ecbff" />
+        <option name="FOREGROUND" value="a5d6ff" />
       </value>
     </option>
     <option name="CONSOLE_DARKGRAY_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="464c55" />
+        <option name="FOREGROUND" value="768390" />
       </value>
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff7b72" />
+        <option name="FOREGROUND" value="e5534b" />
       </value>
     </option>
     <option name="CONSOLE_GRAY_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="646a73" />
-        <option name="ERROR_STRIPE_COLOR" value="21252b" />
+        <option name="FOREGROUND" value="adbac7" />
+        <option name="ERROR_STRIPE_COLOR" value="d1117" />
       </value>
     </option>
     <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="85e89d" />
+        <option name="FOREGROUND" value="7ee787" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CONSOLE_GREEN_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="85e89d" />
+        <option name="FOREGROUND" value="7ee787" />
       </value>
     </option>
     <option name="CONSOLE_MAGENTA_BRIGHT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="b392f0" />
+        <option name="FOREGROUND" value="d2a8ff" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CONSOLE_MAGENTA_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="b392f0" />
+        <option name="FOREGROUND" value="d2a8ff" />
       </value>
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="c9d1d9" />
+        <option name="FOREGROUND" value="e6edf3" />
       </value>
     </option>
     <option name="CONSOLE_RANGE_TO_EXECUTE">
@@ -296,39 +300,39 @@
     </option>
     <option name="CONSOLE_RED_BRIGHT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff7b72" />
+        <option name="FOREGROUND" value="e5534b" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CONSOLE_RED_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff7b72" />
+        <option name="FOREGROUND" value="ffa198" />
       </value>
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="e7f2ff" />
+        <option name="FOREGROUND" value="e6edf3" />
       </value>
     </option>
     <option name="CONSOLE_USER_INPUT">
       <value>
-        <option name="FOREGROUND" value="85e89d" />
+        <option name="FOREGROUND" value="7ee787" />
       </value>
     </option>
     <option name="CONSOLE_WHITE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="c9d1d9" />
+        <option name="FOREGROUND" value="e6edf3" />
       </value>
     </option>
     <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ffab70" />
+        <option name="FOREGROUND" value="d29922" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ffab70" />
+        <option name="FOREGROUND" value="d29922" />
       </value>
     </option>
     <option name="CSS.COLOR">
@@ -894,7 +898,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="HAML_FILTER_CONTENT" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
+    <option name="HAML_FILTER_CONTENT" baseAttributes="" />
     <option name="HAML_ID">
       <value>
         <option name="FOREGROUND" value="79b8ff" />
@@ -924,7 +928,7 @@
         <option name="BACKGROUND" value="d1117" />
       </value>
     </option>
-    <option name="HAML_XHTML" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
+    <option name="HAML_XHTML" baseAttributes="" />
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="79c0ff" />
@@ -1366,27 +1370,32 @@
     </option>
     <option name="LOG_DEBUG_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="9ecbff" />
+        <option name="FOREGROUND" value="a5d6ff" />
       </value>
     </option>
     <option name="LOG_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff7b72" />
+        <option name="FOREGROUND" value="ffa198" />
+      </value>
+    </option>
+    <option name="LOG_EXPIRED_ENTRY">
+      <value>
+        <option name="FOREGROUND" value="768390" />
       </value>
     </option>
     <option name="LOG_INFO_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="85e89d" />
+        <option name="FOREGROUND" value="7ee787" />
       </value>
     </option>
     <option name="LOG_VERBOSE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="79b8ff" />
+        <option name="FOREGROUND" value="2f81f7" />
       </value>
     </option>
     <option name="LOG_WARNING_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ffab70" />
+        <option name="FOREGROUND" value="d29922" />
       </value>
     </option>
     <option name="List/map to object conversion">

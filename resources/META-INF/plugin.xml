@@ -2,7 +2,7 @@
 <idea-plugin>
     <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
     <id>Intellij_GitHub_Dark_Theme</id>
-    <version>1.0.1</version>
+    <version>1.1.0</version>
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
@@ -10,7 +10,7 @@
     <category>UI</category>
 
     <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
-    <vendor email="tobe.johnson@protonmail.com" url="https://tobyjohnson.uk/">Toby Johnson</vendor>
+    <vendor email="tobyojohnson@proton.me" url="https://tobyjohnson.uk/">Toby Johnson</vendor>
 
     <idea-version since-build="212"/>
 
@@ -30,7 +30,7 @@
     <!-- Short summary of new features and bugfixes in the latest plugin version.
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
     <change-notes><![CDATA[
-    Improved description
+    Improved description and added "Theme" to display name
   ]]></change-notes>
 
     <!-- Product and plugin compatibility requirements.
@@ -38,6 +38,7 @@
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <themeProvider id="GitHub_Dark_Theme" path="GitHub_Dark.theme.json"/>
+        <themeProvider id="intellij_github_dark_theme" path="themes/dark/github_dark.theme.json"/>
+        <themeProvider id="intellij_github_dark_dimmed_theme" path="themes/dark_dimmed/github_dark_dimmed.theme.json"/>
     </extensions>
 </idea-plugin>
