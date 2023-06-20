@@ -7,9 +7,6 @@
     <property name="modified">2023-06-04T12:54:13</property>
     <property name="originalScheme">GitHub Dark</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="Consolas" />
-  <option name="CONSOLE_LIGATURES" value="true" />
-  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="85e89d" />
     <option name="ANNOTATIONS_COLOR" value="a0a7b4" />
@@ -2420,8 +2417,4 @@
       </value>
     </option>
   </attributes>
-  <option name="FONT_SCALE" value="1.0" />
-  <option name="CONSOLE_FONT_NAME" value="Consolas" />
-  <option name="CONSOLE_LIGATURES" value="true" />
-  <option name="CONSOLE_LINE_SPACING" value="1.2" />
 </scheme>
