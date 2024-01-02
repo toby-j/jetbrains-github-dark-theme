@@ -259,7 +259,7 @@
     "Popup": {
       "background": "#21262d",
       "paintBorder": false,
-      "borderColor": "#0d1117",
+      "borderColor": "#3d424b",
       "Toolbar.borderColor": "#3d424b",
       "Header.activeBackground": "#414855",
       "Header.inactiveBackground": "#2c313a",
