@@ -2228,11 +2228,6 @@
         <option name="FOREGROUND" value="e6edf3" />
       </value>
     </option>
-    <option name="TS.PARAMETER">
-      <value>
-        <option name="FOREGROUND" value="ffa657" />
-      </value>
-    </option>
     <option name="TS.STATIC_MEMBER_VARIABLE">
       <value>
         <option name="FOREGROUND" value="79c0ff" />
