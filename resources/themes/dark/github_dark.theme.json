@@ -11,7 +11,8 @@
     "foregroundColor": "#e6edf3",
     "notificationBackground": "#3d424b",
     "selectionBackground": "#161b22",
-    "selectionForeground": "#f0f6fc"
+    "selectionForeground": "#f0f6fc",
+    "activeTabBackground": "#161b22"
   },
   "ui": {
     "*": {
@@ -118,7 +119,7 @@
     "DefaultTabs": {
       "underlineColor": "accentColor",
       "inactiveUnderlineColor": "#4269b9",
-      "hoverBackground": "#161b22"
+      "hoverBackground": "activeTabBackground"
     },
 
     "DragAndDrop": {
@@ -138,7 +139,7 @@
     "EditorPane.inactiveBackground": "#21262d",
 
     "EditorTabs": {
-      "underlinedTabBackground": "#3d424b"
+      "underlinedTabBackground": "activeTabBackground"
     },
 
     "FileColor": {
@@ -177,6 +178,16 @@
 
     "MainToolbar": {
       "background": "backgroundColor"
+    },
+
+    "MainWindow.Tab": {
+      "borderColor": "backgroundColor",
+      "foreground": "#768599",
+      "background": "backgroundColor",
+      "hoverBackground": "activeTabBackground",
+      "selectedForeground": "foregroundColor",
+      "selectedBackground": "activeTabBackground",
+      "selectedInactiveBackground": "activeTabBackground"
     },
 
     "MemoryIndicator": {
