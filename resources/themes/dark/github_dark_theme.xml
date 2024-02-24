@@ -1,9 +1,9 @@
 <scheme name="GitHub Dark" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2024-01-02T16:05:20</property>
+    <property name="created">2024-01-05T20:24:32</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2023.3.2.0.0</property>
-    <property name="modified">2024-01-02T16:05:25</property>
+    <property name="modified">2024-01-05T20:24:36</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="85e89d" />
@@ -1130,7 +1130,7 @@
     </option>
     <option name="JS.LOCAL_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="ffa657" />
+        <option name="FOREGROUND" value="d2a8ff" />
       </value>
     </option>
     <option name="JS.LOCAL_VARIABLE">

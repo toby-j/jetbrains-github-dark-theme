@@ -1,9 +1,9 @@
 <scheme name="GitHub Dark Dimmed" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2024-01-02T16:05:30</property>
+    <property name="created">2024-02-24T20:01:10</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2023.3.2.0.0</property>
-    <property name="modified">2024-01-02T16:05:32</property>
+    <property name="ideVersion">2023.3.3.0.0</property>
+    <property name="modified">2024-02-24T20:01:15</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="85e89d" />
@@ -61,7 +61,7 @@
     </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffab70" />
+        <option name="FOREGROUND" value="6cb6ff" />
       </value>
     </option>
     <option name="APACHE_CONFIG.IDENTIFIER">
@@ -554,12 +554,12 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
-        <option name="FOREGROUND" value="ffa657" />
+        <option name="FOREGROUND" value="ff7b72" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
       <value>
-        <option name="FOREGROUND" value="d2a8ff" />
+        <option name="FOREGROUND" value="c9d1d9" />
       </value>
     </option>
     <option name="DEFAULT_ENTITY">
@@ -569,12 +569,13 @@
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="b392f0" />
+        <option name="FOREGROUND" value="dcbdfb" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="ffa657" />
+        <option name="FOREGROUND" value="dcbdfb" />
+        <option name="BACKGROUND" value="1c2128" />
       </value>
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
@@ -618,7 +619,7 @@
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="ffab70" />
+        <option name="FOREGROUND" value="dcbdfb" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
@@ -633,7 +634,7 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="d2a8ff" />
+        <option name="FOREGROUND" value="c9d1d9" />
         <option name="BACKGROUND" value="1c2128" />
       </value>
     </option>
@@ -1078,9 +1079,14 @@
         <option name="BACKGROUND" value="423535" />
       </value>
     </option>
+    <option name="JS.CLASS">
+      <value>
+        <option name="FOREGROUND" value="ffa657" />
+      </value>
+    </option>
     <option name="JS.DECORATOR">
       <value>
-        <option name="FOREGROUND" value="d2a8ff" />
+        <option name="FOREGROUND" value="dcbdfb" />
       </value>
     </option>
     <option name="JS.DOC_TAG">
@@ -1105,28 +1111,24 @@
     </option>
     <option name="JS.EXPORTED.FUNCTION">
       <value>
-        <option name="FOREGROUND" value="ffa657" />
+        <option name="FOREGROUND" value="dcbdfb" />
       </value>
     </option>
     <option name="JS.EXPORTED.VARIABLE">
       <value>
-        <option name="FOREGROUND" value="ffa657" />
+        <option name="FOREGROUND" value="6cb6ff" />
       </value>
     </option>
-    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="JS.GLOBAL_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="c9d1d9" />
-      </value>
-    </option>
-    <option name="JS.INSTANCE_MEMBER_FUNCTION">
+    <option name="JS.GLOBAL_FUNCTION">
       <value>
         <option name="FOREGROUND" value="dcbdfb" />
       </value>
     </option>
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
+    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="7ab1e8" />
+        <option name="FOREGROUND" value="6cb6ff" />
       </value>
     </option>
     <option name="JS.INTERFACE">
@@ -1141,7 +1143,7 @@
     </option>
     <option name="JS.LOCAL_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="ffa657" />
+        <option name="FOREGROUND" value="dcbdfb" />
       </value>
     </option>
     <option name="JS.LOCAL_VARIABLE">
@@ -1169,9 +1171,14 @@
         <option name="FOREGROUND" value="9ecbff" />
       </value>
     </option>
+    <option name="JS.STATIC_MEMBER_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="dcbdfb" />
+      </value>
+    </option>
     <option name="JS.STATIC_MEMBER_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="7ab1e8" />
+        <option name="FOREGROUND" value="6cb6ff" />
       </value>
     </option>
     <option name="JS.VALID_STRING_ESCAPE">
@@ -1208,11 +1215,6 @@
       <value>
         <option name="FOREGROUND" value="ffab70" />
         <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="KOTLIN_ANNOTATION">
-      <value>
-        <option name="FOREGROUND" value="c9d1d9" />
       </value>
     </option>
     <option name="KOTLIN_ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
@@ -2225,17 +2227,14 @@
     <option name="TS.DOC_TYPE">
       <value />
     </option>
-    <option name="TS.EXPORTED_CLASS">
-      <value />
-    </option>
     <option name="TS.EXPORTED_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="f69d50" />
+        <option name="FOREGROUND" value="d2a8ff" />
       </value>
     </option>
     <option name="TS.EXPORTED_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="f69d50" />
+        <option name="FOREGROUND" value="6cb6ff" />
       </value>
     </option>
     <option name="TS.GLOBAL_VARIABLE">
@@ -2245,7 +2244,7 @@
     </option>
     <option name="TS.INSTANCE_MEMBER_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="f69d50" />
+        <option name="FOREGROUND" value="dcbdfb" />
       </value>
     </option>
     <option name="TS.INSTANCE_MEMBER_VARIABLE">
@@ -2256,11 +2255,6 @@
     </option>
     <option name="TS.INTERFACE">
       <value />
-    </option>
-    <option name="TS.LOCAL_FUNCTION">
-      <value>
-        <option name="FOREGROUND" value="ffa657" />
-      </value>
     </option>
     <option name="TS.MODULE_NAME">
       <value>
