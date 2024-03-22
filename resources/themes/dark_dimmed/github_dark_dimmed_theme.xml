@@ -1,9 +1,9 @@
 <scheme name="GitHub Dark Dimmed" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2024-02-24T20:01:10</property>
-    <property name="ide">idea</property>
-    <property name="ideVersion">2023.3.3.0.0</property>
-    <property name="modified">2024-02-24T20:01:15</property>
+    <property name="created">2024-03-22T21:35:44</property>
+    <property name="ide">Python</property>
+    <property name="ideVersion">2023.3.5.0.0</property>
+    <property name="modified">2024-03-22T21:35:54</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="85e89d" />
@@ -423,7 +423,7 @@
         <option name="FOREGROUND" value="9ecbff" />
       </value>
     </option>
-    <option name="Class" baseAttributes="CLASS_NAME_ATTRIBUTES" />
+    <option name="Class" baseAttributes="" />
     <option name="Clojure Atom">
       <value>
         <option name="FOREGROUND" value="b392f0" />
@@ -624,12 +624,12 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="79b8ff" />
+        <option name="FOREGROUND" value="6cb6ff" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="79c0ff" />
+        <option name="FOREGROUND" value="6cb6ff" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
@@ -884,7 +884,6 @@
     <option name="GQL_ID">
       <value />
     </option>
-    <option name="Groovy method declaration" baseAttributes="METHOD_DECLARATION_ATTRIBUTES" />
     <option name="HAML_CLASS">
       <value>
         <option name="FOREGROUND" value="ffa657" />
@@ -1295,7 +1294,6 @@
         <option name="FOREGROUND" value="ff7b72" />
       </value>
     </option>
-    <option name="KOTLIN_PACKAGE_FUNCTION_CALL" baseAttributes="DEFAULT_STATIC_METHOD" />
     <option name="KOTLIN_PACKAGE_PROPERTY">
       <value>
         <option name="FOREGROUND" value="c9d1d9" />
@@ -1715,7 +1713,7 @@
     </option>
     <option name="PY.BUILTIN_NAME">
       <value>
-        <option name="FOREGROUND" value="70b1eb" />
+        <option name="FOREGROUND" value="6cb6ff" />
       </value>
     </option>
     <option name="PY.CLASS_DEFINITION">
@@ -1725,7 +1723,7 @@
     </option>
     <option name="PY.DECORATOR">
       <value>
-        <option name="FOREGROUND" value="79c0ff" />
+        <option name="FOREGROUND" value="dcbdfb" />
       </value>
     </option>
     <option name="PY.DOC_COMMENT">
@@ -1748,16 +1746,6 @@
         <option name="FOREGROUND" value="c9d1d9" />
       </value>
     </option>
-    <option name="PY.NUMBER">
-      <value>
-        <option name="FOREGROUND" value="96d0ff" />
-      </value>
-    </option>
-    <option name="PY.OPERATION_SIGN">
-      <value>
-        <option name="FOREGROUND" value="70b1eb" />
-      </value>
-    </option>
     <option name="PY.PARAMETER">
       <value>
         <option name="FOREGROUND" value="c9d1d9" />
@@ -1765,7 +1753,7 @@
     </option>
     <option name="PY.PREDEFINED_DEFINITION">
       <value>
-        <option name="FOREGROUND" value="79c0ff" />
+        <option name="FOREGROUND" value="6cb6ff" />
       </value>
     </option>
     <option name="PY.PREDEFINED_USAGE">
@@ -1785,7 +1773,7 @@
     </option>
     <option name="PY.STRING.B">
       <value>
-        <option name="FOREGROUND" value="79c0ff" />
+        <option name="FOREGROUND" value="6cb6ff" />
       </value>
     </option>
     <option name="RDOC_DIRECTIVE">
@@ -2155,7 +2143,7 @@
         <option name="FOREGROUND" value="79c0ff" />
       </value>
     </option>
-    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
+    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="" />
     <option name="STATIC_METHOD_IMPORTED_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="79b8ff" />
@@ -2186,7 +2174,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
+    <option name="Static method access" baseAttributes="" />
     <option name="Static property reference ID">
       <value>
         <option name="FOREGROUND" value="ffa657" />
@@ -2229,7 +2217,7 @@
     </option>
     <option name="TS.EXPORTED_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="d2a8ff" />
+        <option name="FOREGROUND" value="dcbdfb" />
       </value>
     </option>
     <option name="TS.EXPORTED_VARIABLE">
@@ -2371,7 +2359,7 @@
         <option name="FOREGROUND" value="85e89d" />
       </value>
     </option>
-    <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="XPATH.XPATH_VARIABLE" baseAttributes="" />
     <option name="YAML_ANCHOR">
       <value>
         <option name="FOREGROUND" value="ffab70" />
