@@ -3,7 +3,7 @@ Getting as close to GitHub's dark theme as possible.
 Installation instructions:
 - Install plugin from JetBrains Marketplace
 - To enable the editor theme, navigate to Settings -> Editor -> Color Scheme -> Scheme dropdown
-- Dark theme is be applied upon installation by default, to change this navigate to Settings -> Appearance -> Theme dropdown
+- Dark theme is applied upon installation by default, to change to another of the included themes: navigate to Settings -> Appearance -> Theme dropdown
 - Restart IDE for good measure
  
 [Intellij Plugin Repository](https://plugins.jetbrains.com/plugin/19291-github-dark) | [Report an issue](https://github.com/toby-j/Intellij_GitHub_Dark_Theme/issues)  
@@ -18,7 +18,7 @@ Installation instructions:
 - Purple ![#DCBDFB](https://placehold.co/15x15/DCBDFB/DCBDFB.png) `#DCBDFB`
 - Orange ![#FFA657](https://placehold.co/15x15/FFA657/FFA657.png) `#FFA657`
 - Text-white ![#C9D1D9](https://placehold.co/15x15/C9D1D9/C9D1D9.png) `#C9D1D9`
-- Blue-light ![#96D0FF](https://placehold.co/15x15/FFA657/96D0FF.png) `#96D0FF`
+- Blue-light ![#96D0FF](https://placehold.co/15x15/a5d6ff/a5d6ff.png) `#96D0FF`
 - Pink ![#F692CE](https://placehold.co/15x15/F692CE/F692CE.png) `#F692CE`
 - Green ![#8DDB8C](https://placehold.co/15x15/8DDB8C/8DDB8C.png) `#8DDB8C`
 - Blue-dark ![#6cb6ff](https://placehold.co/15x15/6cb6ff/6cb6ff.png) `#6cb6ff`
