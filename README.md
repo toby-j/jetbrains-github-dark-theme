@@ -1,5 +1,7 @@
 Getting as close to GitHub's Dark Themes as possible.
 
+After each update, you may need to re-select your editor theme by going to: **Settings -> Editor -> Color Scheme -> Scheme dropdown**
+
 Installation instructions:
 1. Install plugin from JetBrains Marketplace
 2. To enable the editor theme, navigate to **Settings -> Editor -> Color Scheme -> Scheme dropdown**
