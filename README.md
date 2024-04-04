@@ -38,7 +38,7 @@ Installation instructions:
 
 There's plenty more work to do on this plugin, so if you'd like to lend a hand here's how you can.
 
-This is made using DevKit, not Gradle. ([This project might have to migrate this too eventually...](https://plugins.jetbrains.com/docs/intellij/migrating-plugin-devkit-to-gradle.html))
+This is made using DevKit, not Gradle. ([This project might have to be migrated to eventually...](https://plugins.jetbrains.com/docs/intellij/migrating-plugin-devkit-to-gradle.html))
 
 This is the easiest way I found to work on it. For further reading: [here's the official guide](https://plugins.jetbrains.com/docs/intellij/themes-getting-started.html?from=DevkitOpenThemeReference#gradle-based-theme-project)
 
