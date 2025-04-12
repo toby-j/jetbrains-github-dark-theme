@@ -31,9 +31,8 @@
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
     <change-notes><![CDATA[
      <ul>
-      <li>MainWindow.Tab from the New UI now has a color. Thanks albenik! </li>
-      <li>Improvements to Python, TypeScript, JavaScript</li>
-      <li>Corrected some global colours to be closer to GitHub's Dark and Dimmed web app appearances</li>
+      <li>Fixed #12: Improved visibility in diff / merge</li>
+      <li>Added Signal support to Angular templates</li>
     </ul>
   ]]></change-notes>
 
