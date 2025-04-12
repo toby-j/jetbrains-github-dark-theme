@@ -1,3 +1,7 @@
+<iframe width="384px" height="319px" src="https://plugins.jetbrains.com/embeddable/card/19291"></iframe>
+
+<iframe width="245px" height="48px" src="https://plugins.jetbrains.com/embeddable/install/19291"></iframe>
+
 Getting as close to GitHub's Dark Themes as possible.
 
 After each update, you may need to re-select your editor theme by going to: **Settings -> Editor -> Color Scheme -> Scheme dropdown**
