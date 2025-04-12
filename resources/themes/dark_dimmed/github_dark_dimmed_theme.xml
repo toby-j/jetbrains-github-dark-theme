@@ -1,9 +1,7 @@
 <scheme name="GitHub Dark Dimmed" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2024-03-22T21:35:44</property>
-    <property name="ide">Python</property>
-    <property name="ideVersion">2023.3.5.0.0</property>
-    <property name="modified">2024-03-22T21:35:54</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2024.3.5.0.0</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="85e89d" />
@@ -423,7 +421,7 @@
         <option name="FOREGROUND" value="9ecbff" />
       </value>
     </option>
-    <option name="Class" baseAttributes="" />
+    <option name="Class" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="Clojure Atom">
       <value>
         <option name="FOREGROUND" value="b392f0" />
@@ -692,7 +690,7 @@
     </option>
     <option name="DIFF_CONFLICT">
       <value>
-        <option name="BACKGROUND" value="6b2a2b" />
+        <option name="BACKGROUND" value="5c3538" />
         <option name="ERROR_STRIPE_COLOR" value="f85149" />
       </value>
     </option>
@@ -704,13 +702,13 @@
     </option>
     <option name="DIFF_INSERTED">
       <value>
-        <option name="BACKGROUND" value="e4429" />
+        <option name="BACKGROUND" value="31503d" />
         <option name="ERROR_STRIPE_COLOR" value="9be9a8" />
       </value>
     </option>
     <option name="DIFF_MODIFIED">
       <value>
-        <option name="BACKGROUND" value="1f6feb" />
+        <option name="BACKGROUND" value="143d79" />
         <option name="ERROR_STRIPE_COLOR" value="2769e5" />
       </value>
     </option>
@@ -1540,6 +1538,7 @@
         <option name="FOREGROUND" value="ffa657" />
       </value>
     </option>
+    <option name="NG.SIGNAL" baseAttributes="TS.INSTANCE_MEMBER_FUNCTION" />
     <option name="NG.TEMPLATE_BINDINGS_ATTR_NAME">
       <value>
         <option name="FOREGROUND" value="ffa657" />
@@ -2143,7 +2142,7 @@
         <option name="FOREGROUND" value="79c0ff" />
       </value>
     </option>
-    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="" />
+    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
     <option name="STATIC_METHOD_IMPORTED_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="79b8ff" />
@@ -2174,7 +2173,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="Static method access" baseAttributes="" />
+    <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
     <option name="Static property reference ID">
       <value>
         <option name="FOREGROUND" value="ffa657" />
@@ -2359,7 +2358,7 @@
         <option name="FOREGROUND" value="85e89d" />
       </value>
     </option>
-    <option name="XPATH.XPATH_VARIABLE" baseAttributes="" />
+    <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="YAML_ANCHOR">
       <value>
         <option name="FOREGROUND" value="ffab70" />
