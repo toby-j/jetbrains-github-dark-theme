@@ -4,21 +4,21 @@
   "author": "Toby Johnson",
   "editorScheme": "/themes/dark_dimmed/github_dark_dimmed_theme.xml",
   "colors": {
-    "accentColor": "#316dca",
+    "accentColor": "#478be6",
     "backgroundColor": "#22272e",
     "borderColor": "#333841",
-    "infoForeground": "#f0f6fc",
-    "foregroundColor": "#cdd9e5",
+    "infoForeground": "#9198a1",
+    "foregroundColor": "#d1d7e0",
     "notificationBackground": "#2d333b",
     "selectionBackground": "#161b22",
-    "selectionForeground": "#f0f6fc",
+    "selectionForeground": "#d1d7e0",
     "activeTabBackground": "#2d333b"
   },
   "ui": {
     "*": {
       "background": "backgroundColor",
-      "foreground": "#cdd9e5",
-      "infoForeground": "#cdd9e5",
+      "foreground": "foregroundColor",
+      "infoForeground": "infoForeground",
       "selectionBackground": {
         "os.default": "selectionBackground",
         "os.windows": "selectionBackground",
@@ -35,7 +35,7 @@
       "inactiveBackground": "backgroundColor",
       "acceleratorForeground": "#E6E6E6",
       "acceleratorSelectionForeground": "#E6E6E6",
-      "errorForeground": "#cd3359",
+      "errorForeground": "#f5a09a",
       "borderColor": "#333841",
       "disabledBorderColor": "#2d3137",
       "focusColor": "backgroundColor",
@@ -169,9 +169,9 @@
     "Notification": {
       "background": "notificationBackground",
       "borderColor": "#53565f",
-      "errorForeground": "#cdd9e5",
+      "errorForeground": "#f5a09a",
       "errorBackground": "#4d232e",
-      "errorBorderColor": "#692746",
+      "errorBorderColor": "#7b4b4c",
       "MoreButton": {
         "background": "#2f343c",
         "innerBorderColor": "#53565f"
@@ -184,8 +184,8 @@
         "warningBackground": "#272114",
         "warningBorderColor": "#674c14",
         "errorForeground": "#cdd9e5",
-        "errorBackground": "#da3633",
-        "errorBorderColor": "#6b2a2b"
+        "errorBackground": "#48272b",
+        "errorBorderColor": "#7b4b4c"
       }
     },
     "NotificationsToolwindow.newNotification.background": "notificationBackground",
@@ -282,14 +282,14 @@
       "background": "#21262d",
       "stripeColor": "#2c313a",
       "selectionForeground": "#ffffff",
-      "foreground": "#f0f6fc",
+      "foreground": "foregroundColor",
       "dropLineColor": "#cdd9e5",
       "focusCellForeground": "#cdd9e5",
       "gridColor": "#5c6370",
-      "lightSelectionInactiveForeground": "#f0f6fc",
-      "lightSelectionForeground": "#f0f6fc",
+      "lightSelectionInactiveForeground": "foregroundColor",
+      "lightSelectionForeground": "foregroundColor",
       "selectionBackground": "#2d333b",
-      "selectionInactiveForeground": "#f0f6fc",
+      "selectionInactiveForeground": "foregroundColor",
       "lightSelectionBackground": "#414855",
       "lightSelectionInactiveBackground": "#161b22"
     },
@@ -318,7 +318,7 @@
       "Button": {
         "hoverBackground": "#161b22",
         "selectedBackground": "#2d333b",
-        "selectedForeground": "#f0f6fc"
+        "selectedForeground": "foregroundColor"
       },
       "Header": {
         "background": "#414855",
@@ -335,12 +335,14 @@
       "inactiveInfoForeground": "#5C6370"
     },
     "Tree": {
+      "selectionForeground": "#f0f6fc",
       "selectionBackground": "#2f81f7",
-      "modifiedItemForeground": "accentColor",
-      "rowHeight": 20
+      "modifiedItemForeground": "#478be6",
+      "rowHeight": 25,
+      "rowHeight.compact": 20
     },
     "ValidationTooltip": {
-      "errorBackground": "#da3633",
+      "errorBackground": "#48272b",
       "errorBorderColor": "#6b2a2b",
       "warningBackground": "#735822",
       "warningBorderColor": "#674c14"

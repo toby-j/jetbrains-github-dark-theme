@@ -24,6 +24,7 @@ Installation instructions:
 - Pink ![#F692CE](https://placehold.co/15x15/F692CE/F692CE.png) `#F692CE`
 - Green ![#8DDB8C](https://placehold.co/15x15/8DDB8C/8DDB8C.png) `#8DDB8C`
 - Blue-dark ![#6CB6FF](https://placehold.co/15x15/6cb6ff/6cb6ff.png) `#6CB6FF`
+
 ## Dimmed
 - Red ![#FF7B72](https://placehold.co/15x15/FF7B72/FF7B72.png) `#FF7B72`
 - Purple ![#D2A8FF](https://placehold.co/15x15/D2A8FF/D2A8FF.png) `#D2A8FF`
