@@ -173,7 +173,9 @@
 
     "List": {
       "selectionBackground": "#2f81f7",
-      "selectionForeground": "#ffffff"
+      "selectionForeground": "#ffffff",
+      "selectionInactiveBackground": "#294C80",
+      "selectionInactiveForeground": "#E6E6E6"
     },
 
     "MainToolbar": {
@@ -401,6 +403,8 @@
     "Tree": {
       "selectionForeground": "#f0f6fc",
       "selectionBackground": "#2f81f7",
+      "selectionInactiveForeground": "#E6E6E6",
+      "selectionInactiveBackground": "#294C80",
       "modifiedItemForeground": "accentColor",
       "rowHeight": 25,
       "rowHeight.compact": 20
