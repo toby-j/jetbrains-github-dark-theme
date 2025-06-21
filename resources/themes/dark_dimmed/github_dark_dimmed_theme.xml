@@ -1,55 +1,55 @@
 <scheme name="GitHub Dark Dimmed" version="142" parent_scheme="Darcula">
   <metaInfo>
     <property name="ide">idea</property>
-    <property name="ideVersion">2025.1.0.0</property>
+    <property name="ideVersion">2024.1.7.0.0</property>
   </metaInfo>
   <colors>
-    <option name="ADDED_LINES_COLOR" value="85E89D" />
-    <option name="ANNOTATIONS_COLOR" value="A0A7B4" />
-    <option name="CARET_COLOR" value="FFAB70" />
-    <option name="CARET_ROW_COLOR" value="24292E" />
+    <option name="ADDED_LINES_COLOR" value="85e89d" />
+    <option name="ANNOTATIONS_COLOR" value="a0a7b4" />
+    <option name="CARET_COLOR" value="ffab70" />
+    <option name="CARET_ROW_COLOR" value="24292e" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
-    <option name="DELETED_LINES_COLOR" value="FF7B72" />
-    <option name="DIAGRAM_ANNOTATION_EDGE" value="FFAB70" />
-    <option name="DIAGRAM_DEFAULT_EDGE" value="A0A7B4" />
-    <option name="DIAGRAM_GENERALIZATION_EDGE" value="79B8FF" />
-    <option name="DIAGRAM_INNER_EDGE" value="FF7B72" />
-    <option name="DIAGRAM_NODE_BACKGROUND" value="161B22" />
+    <option name="DELETED_LINES_COLOR" value="ff7b72" />
+    <option name="DIAGRAM_ANNOTATION_EDGE" value="ffab70" />
+    <option name="DIAGRAM_DEFAULT_EDGE" value="a0a7b4" />
+    <option name="DIAGRAM_GENERALIZATION_EDGE" value="79b8ff" />
+    <option name="DIAGRAM_INNER_EDGE" value="ff7b72" />
+    <option name="DIAGRAM_NODE_BACKGROUND" value="161b22" />
     <option name="DIAGRAM_NODE_HEADER" value="414855" />
     <option name="DIAGRAM_NOTE_BACKGROUND" value="414855" />
-    <option name="DIAGRAM_NOTE_BORDER" value="68737E" />
-    <option name="DIAGRAM_REALIZATION_EDGE" value="85E89D" />
-    <option name="DIFF_SEPARATORS_BACKGROUND" value="1C2128" />
-    <option name="DOCUMENTATION_COLOR" value="3D424B" />
+    <option name="DIAGRAM_NOTE_BORDER" value="68737e" />
+    <option name="DIAGRAM_REALIZATION_EDGE" value="85e89d" />
+    <option name="DIFF_SEPARATORS_BACKGROUND" value="1c2128" />
+    <option name="DOCUMENTATION_COLOR" value="3d424b" />
     <option name="ERROR_HINT" value="781732" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="768390" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="" />
-    <option name="GUTTER_BACKGROUND" value="1C2128" />
-    <option name="HTML_TAG_TREE_LEVEL0" value="F44747" />
-    <option name="HTML_TAG_TREE_LEVEL1" value="FFAB70" />
-    <option name="HTML_TAG_TREE_LEVEL2" value="85E89D" />
-    <option name="HTML_TAG_TREE_LEVEL3" value="9ECBFF" />
-    <option name="HTML_TAG_TREE_LEVEL4" value="79B8FF" />
-    <option name="HTML_TAG_TREE_LEVEL5" value="B392F0" />
-    <option name="INDENT_GUIDE" value="3B4048" />
-    <option name="INFORMATION_HINT" value="3D424B" />
+    <option name="GUTTER_BACKGROUND" value="1c2128" />
+    <option name="HTML_TAG_TREE_LEVEL0" value="f44747" />
+    <option name="HTML_TAG_TREE_LEVEL1" value="ffab70" />
+    <option name="HTML_TAG_TREE_LEVEL2" value="85e89d" />
+    <option name="HTML_TAG_TREE_LEVEL3" value="9ecbff" />
+    <option name="HTML_TAG_TREE_LEVEL4" value="79b8ff" />
+    <option name="HTML_TAG_TREE_LEVEL5" value="b392f0" />
+    <option name="INDENT_GUIDE" value="3b4048" />
+    <option name="INFORMATION_HINT" value="3d424b" />
     <option name="LINE_NUMBERS_COLOR" value="495162" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="737984" />
-    <option name="METHOD_SEPARATORS_COLOR" value="3B4048" />
-    <option name="MODIFIED_LINES_COLOR" value="FFA657" />
-    <option name="QUESTION_HINT" value="2E4280" />
-    <option name="RECENT_LOCATIONS_SELECTION" value="3D424B" />
+    <option name="METHOD_SEPARATORS_COLOR" value="3b4048" />
+    <option name="MODIFIED_LINES_COLOR" value="ffa657" />
+    <option name="QUESTION_HINT" value="2e4280" />
+    <option name="RECENT_LOCATIONS_SELECTION" value="3d424b" />
     <option name="RIGHT_MARGIN_COLOR" value="606368" />
     <option name="SELECTED_INDENT_GUIDE" value="606368" />
-    <option name="SELECTED_TEARLINE_COLOR" value="6B6E73" />
-    <option name="SELECTION_BACKGROUND" value="22374B" />
+    <option name="SELECTED_TEARLINE_COLOR" value="6b6e73" />
+    <option name="SELECTION_BACKGROUND" value="22374b" />
     <option name="TEARLINE_COLOR" value="768390" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="335027" />
-    <option name="VCS_ANNOTATIONS_COLOR_2" value="3E443C" />
-    <option name="VCS_ANNOTATIONS_COLOR_5" value="46333C" />
-    <option name="VISUAL_INDENT_GUIDE" value="3B4048" />
-    <option name="WHITESPACES" value="4B575F" />
-    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="68737E" />
+    <option name="VCS_ANNOTATIONS_COLOR_2" value="3e443c" />
+    <option name="VCS_ANNOTATIONS_COLOR_5" value="46333c" />
+    <option name="VISUAL_INDENT_GUIDE" value="3b4048" />
+    <option name="WHITESPACES" value="4b575f" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="68737e" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
@@ -141,7 +141,7 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="743d3d" />
+        <option name="BACKGROUND" value="462e39" />
       </value>
     </option>
     <option name="BUILDOUT.KEY">
@@ -579,7 +579,12 @@
     </option>
     <option name="DEBUGGER_SMART_STEP_INTO_SELECTION">
       <value>
-        <option name="EFFECT_COLOR" value="f44747" />
+        <option name="EFFECT_COLOR" value="c1b8ff" />
+      </value>
+    </option>
+    <option name="DEBUGGER_SMART_STEP_INTO_TARGET">
+      <value>
+        <option name="BACKGROUND" value="33345a" />
       </value>
     </option>
     <option name="DEFAULT_ATTRIBUTE">
@@ -798,15 +803,18 @@
       </value>
     </option>
     <option name="EVALUATED_EXPRESSION_ATTRIBUTES">
-      <value />
+      <value>
+        <option name="BACKGROUND" value="3c4f57" />
+      </value>
     </option>
     <option name="EVALUATED_EXPRESSION_EXECUTION_LINE_ATTRIBUTES">
-      <value />
+      <value>
+        <option name="BACKGROUND" value="1f3c41" />
+      </value>
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="c7c7ff" />
+        <option name="BACKGROUND" value="36342c" />
       </value>
     </option>
     <option name="FIRST SYMBOL IN LIST">
@@ -1582,6 +1590,11 @@
     <option name="NG.TEMPLATE_BINDINGS_ATTR_NAME">
       <value>
         <option name="FOREGROUND" value="ffa657" />
+      </value>
+    </option>
+    <option name="NOT_TOP_FRAME_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="a2236" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">

@@ -72,7 +72,7 @@
     },
     "ComboBox": {
       "nonEditableBackground": "#333841",
-      "background": "#333841",
+      "background": "#2a313c",
       "selectionBackground": "#2f81f7",
       "ArrowButton": {
         "iconColor": "#cdd9e5",
@@ -335,9 +335,11 @@
       "inactiveInfoForeground": "#5C6370"
     },
     "Tree": {
-      "selectionForeground": "#f0f6fc",
+      "selectionForeground": "selectionForeground",
       "selectionBackground": "#2f81f7",
-      "modifiedItemForeground": "#478be6",
+      "modifiedItemForeground": "accentColor",
+      "selectionInactiveBackground": "#243042",
+      "foreground": "selectionForeground",
       "rowHeight": 25,
       "rowHeight.compact": 20
     },

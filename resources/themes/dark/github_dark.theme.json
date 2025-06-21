@@ -8,7 +8,7 @@
     "backgroundColor": "#0d1117",
     "borderColor": "#333841",
     "infoForeground": "#9198a1",
-    "foregroundColor": "#f0f6fc",
+    "foregroundColor": "#d1d7e0",
     "notificationBackground": "#3d424b",
     "selectionBackground": "#161b22",
     "selectionForeground": "#f0f6fc",
@@ -56,7 +56,7 @@
     },
 
     "Button": {
-      "foreground": "#f0f6fc",
+      "foreground": "selectionForeground",
       "startBackground": "#3d424b",
       "endBackground": "#3d424b",
       "startBorderColor": "#464c55",
@@ -65,7 +65,7 @@
       "focusedBorderColor": "#646a73",
 
       "default": {
-        "foreground": "#f0f6fc",
+        "foreground": "selectionForeground",
         "startBackground": "accentColor",
         "endBackground": "accentColor",
         "startBorderColor": "accentColor",
@@ -82,8 +82,8 @@
 
     "ComboBox": {
       "nonEditableBackground": "#333841",
-      "background": "#333841",
-      "selectionBackground": "#2f81f7",
+      "background": "#010409",
+      "selectionBackground": "#151a20",
       "ArrowButton": {
         "iconColor": "foregroundColor",
         "disabledIconColor": "#2c313a",
@@ -399,9 +399,11 @@
     },
 
     "Tree": {
-      "selectionForeground": "#f0f6fc",
+      "selectionForeground": "selectionForeground",
       "selectionBackground": "#2f81f7",
       "modifiedItemForeground": "accentColor",
+      "selectionInactiveBackground": "#111d2e",
+      "foreground": "selectionForeground",
       "rowHeight": 25,
       "rowHeight.compact": 20
     },
