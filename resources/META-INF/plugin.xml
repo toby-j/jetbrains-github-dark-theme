@@ -2,7 +2,7 @@
 <idea-plugin>
     <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
     <id>Intellij_GitHub_Dark_Theme</id>
-    <version>1.2.0</version>
+    <version>1.2.1</version>
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
@@ -31,10 +31,7 @@
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
     <change-notes><![CDATA[
      <ul>
-      <li>Fixed #13: Added Dart support</li>
-      <li>The row height of items in the file explorer has been increased. You can use the old height by enabling 'compact mode'.</li>
-      <li>Minor adjustments of base colours for both Dark and Dimmed.</li>
-      <li>New icon</li>
+      <li>Improved the look of the breakpoint debugger</li>
     </ul>
   ]]></change-notes>
 
