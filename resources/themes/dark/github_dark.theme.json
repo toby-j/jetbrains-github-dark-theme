@@ -9,7 +9,7 @@
     "borderColor": "#333841",
     "infoForeground": "#9198a1",
     "foregroundColor": "#d1d7e0",
-    "notificationBackground": "#3d424b",
+    "notificationBackground": "#151b23",
     "selectionBackground": "#161b22",
     "selectionForeground": "#f0f6fc",
     "activeTabBackground": "#161b22"
@@ -81,13 +81,13 @@
     },
 
     "ComboBox": {
-      "nonEditableBackground": "#333841",
+      "nonEditableBackground": "#0d1117",
       "background": "#010409",
       "selectionBackground": "#151a20",
       "ArrowButton": {
         "iconColor": "foregroundColor",
         "disabledIconColor": "#2c313a",
-        "nonEditableBackground": "#333841"
+        "nonEditableBackground": "#0d1117"
       }
     },
 
@@ -182,7 +182,7 @@
 
     "MainWindow.Tab": {
       "borderColor": "backgroundColor",
-      "foreground": "#768599",
+      "foreground": "#2f81f7",
       "background": "backgroundColor",
       "hoverBackground": "activeTabBackground",
       "selectedForeground": "foregroundColor",
@@ -197,11 +197,11 @@
 
     "Notification": {
       "background": "notificationBackground",
-      "borderColor": "#53565f",
+      "borderColor": "#242931",
 
-      "errorForeground": "#fca59f",
-      "errorBackground": "#381417",
-      "errorBorderColor": "#734040",
+      "errorForeground": "#dd919b",
+      "errorBackground": "#31171f",
+      "errorBorderColor": "#693f47",
 
       "MoreButton": {
         "background": "#2f343c",
@@ -232,13 +232,13 @@
     "ParameterInfo": {
       "background": "#3d424b",
       "foreground": "foregroundColor",
-      "infoForeground": "#5c6370",
+      "infoForeground": "#151b23",
       "currentParameterForeground": "#ffffff"
     },
 
     "Plugins": {
       "background": "backgroundColor",
-      "disabledForeground": "#5c6370",
+      "disabledForeground": "#151b23",
       "hoverBackground": "#161b22",
       "lightSelectionBackground": "#161b22",
       "tagBackground": "#414855",
@@ -275,7 +275,7 @@
       "Header.activeBackground": "#414855",
       "Header.inactiveBackground": "#2c313a",
       "Advertiser": {
-        "foreground": "#5c6370",
+        "foreground": "#151b23",
         "borderColor": "#2d3137"
       }
     },
@@ -296,7 +296,7 @@
     },
 
     "SearchEverywhere": {
-      "Advertiser.foreground": "#5c6370",
+      "Advertiser.foreground": "#151b23",
       "Header.background": "backgroundColor",
 
       "SearchField":{
@@ -339,7 +339,7 @@
       "foreground": "foregroundColor",
       "dropLineColor": "foregroundColor",
       "focusCellForeground": "foregroundColor",
-      "gridColor": "#5c6370",
+      "gridColor": "#151b23",
       "lightSelectionInactiveForeground": "foregroundColor",
       "lightSelectionForeground": "foregroundColor",
       "selectionBackground": "#3d424b",
@@ -366,7 +366,7 @@
       "offForeground": "#9f9fa6",
       "offBackground": "#3d424b",
       "borderColor":  "#3d424b",
-      "buttonColor": "#5c6370"
+      "buttonColor": "#151b23"
     },
 
     "ToolTip": {
@@ -395,15 +395,14 @@
 
     "TitlePane" : {
       "infoForeground": "infoForeground",
-      "inactiveInfoForeground": "#5C6370"
+      "inactiveInfoForeground": "#151b23"
     },
 
     "Tree": {
       "selectionForeground": "selectionForeground",
-      "selectionBackground": "#2f81f7",
-      "modifiedItemForeground": "accentColor",
-      "selectionInactiveBackground": "#111d2e",
-      "foreground": "selectionForeground",
+      "selectionBackground": "accentColor",
+      "modifiedItemForeground": "#4493f8",
+      "selectionInactiveBackground": "#1e232a",
       "rowHeight": 25,
       "rowHeight.compact": 20
     },
@@ -419,12 +418,12 @@
       "Log.Commit": {
         "currentBranchBackground": "#282c35",
         "hoveredBackground": "#2c313c",
-        "unmatchedForeground": "#5c6370"
+        "unmatchedForeground": "#151b23"
       },
 
       "RefLabel": {
         "backgroundBrightness": 0.3,
-        "backgroundBase": "#5c6370",
+        "backgroundBase": "#151b23",
         "foreground": "foregroundColor"
       }
     },
@@ -451,7 +450,7 @@
       "Checkbox.Focus.Thin.Selected.Dark": "#2f81f7",
       "Checkbox.Background.Disabled.Dark": "#0d1117",
       "Checkbox.Border.Disabled.Dark": "#2c313a",
-      "Checkbox.Foreground.Disabled.Dark": "#5c6370"
+      "Checkbox.Foreground.Disabled.Dark": "#151b23"
     }
   }
 }
