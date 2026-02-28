@@ -2,6 +2,7 @@
   "name": "GitHub Dark Dimmed",
   "dark": true,
   "author": "Toby Johnson",
+  "parentTheme": "ExperimentalDark",
   "editorScheme": "/themes/dark_dimmed/github_dark_dimmed_theme.xml",
   "colors": {
     "accentColor": "#478be6",
