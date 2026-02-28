@@ -339,9 +339,7 @@
       "selectionForeground": "selectionForeground",
       "selectionBackground": "accentColor",
       "modifiedItemForeground": "#4493f8",
-      "selectionInactiveBackground": "#272e37",
-      "rowHeight": 25,
-      "rowHeight.compact": 20
+      "selectionInactiveBackground": "#272e37"
     },
     "ValidationTooltip": {
       "errorBackground": "#48272b",
