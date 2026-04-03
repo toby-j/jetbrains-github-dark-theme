@@ -15,25 +15,34 @@ Installation instructions:
 ![Screenshot](screenshots/8-small.png)
  
 # Colour Palette
+
+Colours sourced from [GitHub's Primer design system](https://github.com/primer/github-vscode-theme), matching the GitHub Codespaces editor theme.
+
 ## Dark
-- Red ![#FF7B72](https://placehold.co/15x15/FF7B72/FF7B72.png) `#FF7B72`
-- Purple ![#DCBDFB](https://placehold.co/15x15/DCBDFB/DCBDFB.png) `#DCBDFB`
-- Orange ![#FFA657](https://placehold.co/15x15/FFA657/FFA657.png) `#FFA657`
-- Text-white ![#C9D1D9](https://placehold.co/15x15/C9D1D9/C9D1D9.png) `#C9D1D9`
-- Blue-light ![#96D0FF](https://placehold.co/15x15/a5d6ff/a5d6ff.png) `#96D0FF`
-- Pink ![#F692CE](https://placehold.co/15x15/F692CE/F692CE.png) `#F692CE`
-- Green ![#8DDB8C](https://placehold.co/15x15/8DDB8C/8DDB8C.png) `#8DDB8C`
-- Blue-dark ![#6CB6FF](https://placehold.co/15x15/6cb6ff/6cb6ff.png) `#6CB6FF`
+| Role | Colour | Token |
+|------|--------|-------|
+| Keywords / Operators | ![#FF7B72](https://placehold.co/15x15/FF7B72/FF7B72.png) `#FF7B72` | Red |
+| Functions | ![#D2A8FF](https://placehold.co/15x15/D2A8FF/D2A8FF.png) `#D2A8FF` | Purple |
+| Variables / Entity names | ![#FFA657](https://placehold.co/15x15/FFA657/FFA657.png) `#FFA657` | Orange |
+| Foreground text | ![#E6EDF3](https://placehold.co/15x15/E6EDF3/E6EDF3.png) `#E6EDF3` | |
+| Strings / Regex | ![#A5D6FF](https://placehold.co/15x15/A5D6FF/A5D6FF.png) `#A5D6FF` | Blue light |
+| Constants / Numbers / Support | ![#79C0FF](https://placehold.co/15x15/79C0FF/79C0FF.png) `#79C0FF` | Blue |
+| HTML tags / JSON keys | ![#7EE787](https://placehold.co/15x15/7EE787/7EE787.png) `#7EE787` | Green |
+| Constants (special) | ![#F692CE](https://placehold.co/15x15/F692CE/F692CE.png) `#F692CE` | Pink |
+| Comments | ![#8B949E](https://placehold.co/15x15/8B949E/8B949E.png) `#8B949E` | Grey |
 
 ## Dimmed
-- Red ![#FF7B72](https://placehold.co/15x15/FF7B72/FF7B72.png) `#FF7B72`
-- Purple ![#D2A8FF](https://placehold.co/15x15/D2A8FF/D2A8FF.png) `#D2A8FF`
-- Orange ![#FFA657](https://placehold.co/15x15/FFA657/FFA657.png) `#FFA657`
-- Text-white ![#E6EDF3](https://placehold.co/15x15/E6EDF3/E6EDF3.png) `#E6EDF3`
-- Blue-light ![#A5D6FF](https://placehold.co/15x15/A5D6FF/A5D6FF.png) `#A5D6FF`
-- Pink ![#F692CE](https://placehold.co/15x15/F692CE/F692CE.png) `#F692CE`
-- Green ![#8DDB8C](https://placehold.co/15x15/8DDB8C/8DDB8C.png) `#8DDB8C`
-- Blue-dark ![#79C0FF](https://placehold.co/15x15/79C0FF/79C0FF.png) `#79C0FF`
+| Role | Colour | Token |
+|------|--------|-------|
+| Keywords / Operators | ![#F47067](https://placehold.co/15x15/F47067/F47067.png) `#F47067` | Red |
+| Functions | ![#DCBDFB](https://placehold.co/15x15/DCBDFB/DCBDFB.png) `#DCBDFB` | Purple |
+| Variables / Entity names | ![#F69D50](https://placehold.co/15x15/F69D50/F69D50.png) `#F69D50` | Orange |
+| Foreground text | ![#ADBAC7](https://placehold.co/15x15/ADBAC7/ADBAC7.png) `#C9D1D9FF` | |
+| Strings / Regex | ![#96D0FF](https://placehold.co/15x15/96D0FF/96D0FF.png) `#96D0FF` | Blue light |
+| Constants / Numbers / Support | ![#6CB6FF](https://placehold.co/15x15/6CB6FF/6CB6FF.png) `#6CB6FF` | Blue |
+| HTML tags / JSON keys | ![#8DDB8C](https://placehold.co/15x15/8DDB8C/8DDB8C.png) `#8DDB8C` | Green |
+| Constants (special) | ![#F692CE](https://placehold.co/15x15/F692CE/F692CE.png) `#F692CE` | Pink |
+| Comments | ![#768390](https://placehold.co/15x15/768390/768390.png) `#768390` | Grey |
 
 # Contributions
 

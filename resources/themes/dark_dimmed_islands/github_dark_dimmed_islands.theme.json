@@ -3,7 +3,7 @@
   "dark": true,
   "author": "Toby Johnson",
   "parentTheme": "Islands Dark",
-  "editorScheme": "/themes/dark_dimmed/github_dark_dimmed_islands_theme.xml",
+  "editorScheme": "/themes/dark_dimmed_islands/github_dark_dimmed_islands_theme.xml",
   "colors": {
     "accentColor": "#478be6",
     "accentEmphasis": "#316dca",
@@ -77,6 +77,13 @@
       "separatorColor": "borderColor"
     },
 
+    "CheckBox": {
+      "background": "bgDisabled",
+      "foreground": "foregroundColor",
+      "disabledText": "infoForeground",
+      "select": "accentEmphasis"
+    },
+
     "ActionButton": {
       "hoverBackground": "bgEmphasis",
       "hoverBorderColor": "bgEmphasis",
@@ -85,13 +92,13 @@
     },
 
     "Button": {
-      "foreground": "fgOnEmphasis",
-      "startBackground": "bgEmphasis",
-      "endBackground": "bgEmphasis",
-      "startBorderColor": "borderEmphasis",
-      "endBorderColor": "borderEmphasis",
+      "foreground": "foregroundColor",
+      "startBackground": "bgDisabled",
+      "endBackground": "bgDisabled",
+      "startBorderColor": "borderColor",
+      "endBorderColor": "borderColor",
       "shadowColor": "backgroundColor",
-      "focusedBorderColor": "borderEmphasis",
+      "focusedBorderColor": "borderColor",
 
       "default": {
         "foreground": "fgOnEmphasis",
@@ -114,7 +121,7 @@
       "background": "bgDisabled",
       "selectionBackground": "accentEmphasis",
       "ArrowButton": {
-        "iconColor": "foregroundColor",
+        "iconColor": "infoForeground",
         "disabledIconColor": "fgDisabled",
         "nonEditableBackground": "bgDisabled"
       }
@@ -305,8 +312,8 @@
     "Popup": {
       "background": "bgDisabled",
       "paintBorder": false,
-      "borderColor": "bgInset",
-      "Toolbar.borderColor": "bgMuted",
+      "borderColor": "borderColor",
+      "Toolbar.borderColor": "borderColor",
       "Header.activeBackground": "neutralMuted",
       "Header.inactiveBackground": "bgDisabled",
       "Advertiser": {
@@ -374,7 +381,7 @@
       "foreground": "foregroundColor",
       "dropLineColor": "foregroundColor",
       "focusCellForeground": "foregroundColor",
-      "gridColor": "fgDisabled",
+      "gridColor": "borderColor",
       "lightSelectionInactiveForeground": "foregroundColor",
       "lightSelectionForeground": "foregroundColor",
       "selectionBackground": "bgMuted",
@@ -396,12 +403,12 @@
     },
 
     "ToggleButton": {
-      "onForeground": "foregroundColor",
-      "onBackground": "accentColor",
+      "onForeground": "fgOnEmphasis",
+      "onBackground": "accentEmphasis",
       "offForeground": "infoForeground",
-      "offBackground": "bgEmphasis",
+      "offBackground": "bgInset",
       "borderColor": "borderColor",
-      "buttonColor": "bgEmphasis"
+      "buttonColor": "bgDisabled"
     },
 
     "ToolTip": {
@@ -490,11 +497,11 @@
     "ColorPalette": {
       "Checkbox.Background.Default.Dark": "#2a313c",
       "Checkbox.Border.Default.Dark": "#3d444d",
-      "Checkbox.Foreground.Selected.Dark": "#d1d7e0",
+      "Checkbox.Foreground.Selected.Dark": "#f0f6fc",
       "Checkbox.Focus.Wide.Dark": "#316dca",
       "Checkbox.Focus.Thin.Default.Dark": "#316dca",
       "Checkbox.Focus.Thin.Selected.Dark": "#316dca",
-      "Checkbox.Background.Disabled.Dark": "#151b23",
+      "Checkbox.Background.Disabled.Dark": "#2a313c",
       "Checkbox.Border.Disabled.Dark": "#333a42",
       "Checkbox.Foreground.Disabled.Dark": "#656c76"
     }

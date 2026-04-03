@@ -6,6 +6,6 @@
       <sourceFolder url="file://$MODULE_DIR$/resources" type="java-resource" />
     </content>
     <orderEntry type="inheritedJdk" />
-    <\ type="sourceFolder" forTests="false" />
+    <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

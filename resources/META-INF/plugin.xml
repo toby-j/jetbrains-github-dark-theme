@@ -2,11 +2,11 @@
 <idea-plugin>
     <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
     <id>Intellij_GitHub_Dark_Theme</id>
-    <version>1.2.2</version>
+    <version>2.0.0</version>
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
-    <name>GitHub Dark Theme</name>
+    <name>GitHub Primer Theme</name>
     <category>UI</category>
 
     <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
@@ -31,7 +31,11 @@
          Displayed on the Plugin Page and IDE Plugin Manager. Simple HTML elements can be included between <![CDATA[  ]]> tags. -->
     <change-notes><![CDATA[
      <ul>
-      <li>Improved visibility of ignored file tree colours</li>
+      <li>Added island support to Dark and Dimmed</li>
+      <li>Improved general accuracy to GitHub's Primer colour scheme</li>
+      <li>Core changes to C# and Python theming</li>
+      <li>Fixed #18</li>
+      <li>Changed plugin name from GitHub Dark Theme to GitHub Primer Theme</li>
     </ul>
   ]]></change-notes>
 
@@ -42,5 +46,7 @@
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider id="intellij_github_dark_theme" path="themes/dark/github_dark.theme.json"/>
         <themeProvider id="intellij_github_dark_dimmed_theme" path="themes/dark_dimmed/github_dark_dimmed.theme.json"/>
+        <themeProvider id="intellij_github_dark_islands_theme" path="themes/dark_islands/github_dark_islands.theme.json"/>
+        <themeProvider id="intellij_github_dark_dimmed_islands_theme" path="themes/dark_dimmed_islands/github_dark_dimmed_islands.theme.json"/>
     </extensions>
 </idea-plugin>
