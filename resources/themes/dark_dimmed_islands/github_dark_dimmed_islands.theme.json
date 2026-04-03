@@ -11,7 +11,7 @@
     "backgroundColor": "#212830",
     "bgMuted": "#262c36",
     "bgEmphasis": "#3d444d",
-    "bgInset": "#151b23",
+    "bgInset": "#262c36",
     "bgDisabled": "#2a313c",
 
     "foregroundColor": "#d1d7e0",
@@ -40,7 +40,7 @@
     "activeTabBackground": "#262c36",
     "notificationBackground": "#262c36",
 
-    "seaColor": "#2d333b",
+    "seaColor": "#212830",
     "selectedTabBackground": "#1c2d4f"
   },
   "ui": {
@@ -218,7 +218,7 @@
 
     "MainToolbar": {
       "borderColor": "#21283000",
-      "background": "seaColor"
+      "background": "#2d333b"
     },
 
     "MainWindow.Tab": {
@@ -264,6 +264,9 @@
         "errorBorderColor": "#5e3a38"
       }
     },
+
+    "ToolWindow.Stripe.background": "#2d333b" ,
+
 
     "NotificationsToolwindow.newNotification.background": "notificationBackground",
     "NotificationsToolwindow.newNotification.hoverBackground": "bgMuted",
@@ -393,12 +396,17 @@
     "Tag.background": "bgMuted",
 
     "TextArea": {
-      "background": "bgDisabled",
+      "background": "bgInset",
       "selectionBackground": "neutralMuted"
     },
 
     "TextField": {
-      "background": "bgDisabled",
+      "background": "bgInset",
+      "selectionBackground": "neutralMuted"
+    },
+
+    "PasswordField": {
+      "background": "bgInset",
       "selectionBackground": "neutralMuted"
     },
 
@@ -443,7 +451,7 @@
 
     "Tree": {
       "selectionForeground": "selectionForeground",
-      "selectionBackground": "accentColor",
+      "selectionBackground": "bgEmphasis",
       "modifiedItemForeground": "accentColor",
       "selectionInactiveBackground": "bgDisabled"
     },
@@ -489,14 +497,13 @@
     },
 
     "MainWindow": {
-      "background": "seaColor"
+      "background": "#2d333b"
     }
   },
 
   "icons": {
     "ColorPalette": {
       "Checkbox.Background.Default.Dark": "#2a313c",
-      "Checkbox.Border.Default.Dark": "#3d444d",
       "Checkbox.Foreground.Selected.Dark": "#f0f6fc",
       "Checkbox.Focus.Wide.Dark": "#316dca",
       "Checkbox.Focus.Thin.Default.Dark": "#316dca",

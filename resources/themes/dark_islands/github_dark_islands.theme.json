@@ -392,12 +392,17 @@
     "Tag.background": "bgEmphasis",
 
     "TextArea": {
-      "background": "bgDisabled",
+      "background": "bgInset",
       "selectionBackground": "neutralMuted"
     },
 
     "TextField": {
-      "background": "bgDisabled",
+      "background": "bgInset",
+      "selectionBackground": "neutralMuted"
+    },
+
+    "PasswordField": {
+      "background": "bgInset",
       "selectionBackground": "neutralMuted"
     },
 
@@ -442,7 +447,7 @@
 
     "Tree": {
       "selectionForeground": "selectionForeground",
-      "selectionBackground": "accentColor",
+      "selectionBackground": "bgEmphasis",
       "modifiedItemForeground": "accentColor",
       "selectionInactiveBackground": "bgDisabled"
     },
