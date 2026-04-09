@@ -1,4 +1,4 @@
-Getting as close to GitHub's Dark Themes as possible.
+Getting as close to GitHub's Primer Theme as possible.
 
 After each update, you may need to re-select your editor theme by going to: **Settings -> Editor -> Color Scheme -> Scheme dropdown**
 
